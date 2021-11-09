@@ -1,2 +1,6 @@
 # Anmeldefenster
-Alle Dateien für das Anmeldefenster.
+Alle Dateien für eine Pizza Website.
+Vorhandene Dateien:
+- Html
+- Css
+- Javascript
